@@ -14,5 +14,7 @@ botaoNao.addEventListener("mouseover", function () {
 });
 
 botaoSim.addEventListener("click", function () {
-    window.open ("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank")
+    window.open ("https://www.youtube.com/watch?v=yaYJ68Akj2M", "_blank")
+    window.open ("img/Declaracao_Amor_page-0001.pdf", "_blank")
+    alert("Ainda bem que sabe, ela é perdidinha em você!")
 });
